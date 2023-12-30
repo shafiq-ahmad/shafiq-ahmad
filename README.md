@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning Data Science, specifically for intensive data processing.
 - 💞️ I’m looking to collaborate in the field of data science
 - 💬 Ask me about [Linkedin](https://www.linkedin.com/in/shafique-ahmad-b0865361)
-- 💬 Ask me about [Fiverr](https://www.fiverr.com/shafiqueahma366)
-- 💬 Ask me about [Upwork](https://www.upwork.com/freelancers/~01abb0bf830b294c84)
 - 📫 How to reach me: 
   - [LinkedIn Profile](https://www.linkedin.com/in/shafique-ahmad-b0865361)
   - [Instagram Profile](https://www.instagram.com/shafiq.steve/)
+  - [Fiverr Profile](https://www.fiverr.com/shafiqueahma366)
+  - [Upwork Profile](https://www.upwork.com/freelancers/~01abb0bf830b294c84)
 
